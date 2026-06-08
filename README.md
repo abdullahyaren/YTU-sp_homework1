@@ -1,6 +1,6 @@
 # 📚 Student Course Management System
 
-A terminal-based student course management system written in **ANSI C**, developed as a homework assignment for the **Structured Programming (SP)** course at Yıldız Technical University.
+A terminal-based student course management system written in **ANSI C**, developed as a homework assignment for the **Structured Programming** course at Yıldız Technical University.
 
 ---
 
